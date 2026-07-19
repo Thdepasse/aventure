@@ -3,7 +3,7 @@
     "titre": "Asie du Sud-Est 2025",
     "duree": 40,
     "budget_total": 4500,
-    "saison_active": "nov-avril"
+    "saison_active": "sept-oct"
   },
   "saisons": {
     "nov-avril": {
@@ -35,13 +35,27 @@
       "bg": "#FAEEDA",
       "description": "Arrivée et acclimatation. Batu Caves (tôt le matin), Petronas Towers, Chinatown. Acheter SIM locale dès l'aéroport.",
       "budget_jour": 35,
-      "activites": ["Batu Caves", "Petronas Towers", "Chinatown Petaling St", "Jalan Alor food street"],
+      "activites": [
+        "Batu Caves",
+        "Petronas Towers",
+        "Chinatown Petaling St",
+        "Jalan Alor food street"
+      ],
       "logement": "Bukit Bintang ou Chinatown",
       "transport_arrivee": "KLIA Ekspres (~55min, 11€) ou Grab",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Ensoleillé 28°C", "conseil": "Parfait pour débuter" },
-        "juil-aout": { "meteo": "🌧️ Pluies fréquentes 30°C", "conseil": "Visite Batu Caves tôt pour éviter pluies" },
-        "sept-oct": { "meteo": "⛅ Variable 29°C", "conseil": "Correct, quelques averses" }
+        "nov-avril": {
+          "meteo": "☀️ Ensoleillé 28°C",
+          "conseil": "Parfait pour débuter"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Pluies fréquentes 30°C",
+          "conseil": "Visite Batu Caves tôt pour éviter pluies"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Variable 29°C",
+          "conseil": "Correct, quelques averses"
+        }
       },
       "images": [],
       "notes": ""
@@ -58,13 +72,26 @@
       "bg": "#E6F1FB",
       "description": "Hub de transit. Intramuros (cité fortifiée espagnole), Rizal Park. Ne pas s'y attarder — c'est une escale stratégique.",
       "budget_jour": 30,
-      "activites": ["Intramuros", "Rizal Park", "Fort Santiago"],
+      "activites": [
+        "Intramuros",
+        "Rizal Park",
+        "Fort Santiago"
+      ],
       "logement": "Près de l'aéroport Terminal 3",
       "transport_arrivee": "Vol KL→Manille (AirAsia, ~60€)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Sec 30°C", "conseil": "Bonne période" },
-        "juil-aout": { "meteo": "🌧️ Typhons possibles", "conseil": "⚠️ Risque typhon — vérifier alertes météo" },
-        "sept-oct": { "meteo": "🌧️ Fin mousson", "conseil": "Toujours risque typhon en septembre" }
+        "nov-avril": {
+          "meteo": "☀️ Sec 30°C",
+          "conseil": "Bonne période"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Typhons possibles",
+          "conseil": "⚠️ Risque typhon — vérifier alertes météo"
+        },
+        "sept-oct": {
+          "meteo": "🌧️ Fin mousson",
+          "conseil": "Toujours risque typhon en septembre"
+        }
       },
       "images": [],
       "notes": ""
@@ -81,15 +108,30 @@
       "bg": "#E6F1FB",
       "description": "Sardine run à Moalboal (nager dans 1 million de sardines), snorkeling Pescador Island. Oslob à 30 min pour les requins baleines.",
       "budget_jour": 35,
-      "activites": ["Sardine run Moalboal", "Requins baleines Oslob", "Pescador Island snorkeling", "Osmeña Peak randonnée", "Cascade Kawasan Falls"],
+      "activites": [
+        "Sardine run Moalboal",
+        "Requins baleines Oslob",
+        "Pescador Island snorkeling",
+        "Osmeña Peak randonnée",
+        "Cascade Kawasan Falls"
+      ],
       "logement": "Auberge Moalboal (8–15€/nuit)",
       "transport_arrivee": "Vol Manille→Cebu (20–40€) + bus Cebu→Moalboal (~2h, 2€)",
       "highlight": "🦈 Requins baleines",
       "cout_activite": "~25€ (Oslob)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Mer calme 29°C", "conseil": "⭐ Meilleure période, mer idéale" },
-        "juil-aout": { "meteo": "🌧️ Averses, mer agitée", "conseil": "⚠️ Oslob possible mais Moalboal risqué" },
-        "sept-oct": { "meteo": "⛅ Transition", "conseil": "Acceptable, vérifier conditions mer" }
+        "nov-avril": {
+          "meteo": "☀️ Mer calme 29°C",
+          "conseil": "⭐ Meilleure période, mer idéale"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Averses, mer agitée",
+          "conseil": "⚠️ Oslob possible mais Moalboal risqué"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Transition",
+          "conseil": "Acceptable, vérifier conditions mer"
+        }
       },
       "images": [],
       "notes": ""
@@ -106,15 +148,30 @@
       "bg": "#E6F1FB",
       "description": "Chocolate Hills (vue panoramique unique), tarsiers (plus petits primates du monde), Balicasag Island pour raies mantas et tortues.",
       "budget_jour": 32,
-      "activites": ["Chocolate Hills", "Tarsiers sanctuary", "Balicasag Island mantas", "Plages Panglao", "Rivière de Loboc en bateau"],
+      "activites": [
+        "Chocolate Hills",
+        "Tarsiers sanctuary",
+        "Balicasag Island mantas",
+        "Plages Panglao",
+        "Rivière de Loboc en bateau"
+      ],
       "logement": "Panglao Beach (12–20€/nuit)",
       "transport_arrivee": "Ferry rapide Cebu→Tagbilaran (~2h, 8€)",
       "highlight": "🐟 Raies mantas",
       "cout_activite": "~30–40€ (Balicasag tour)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Sec 29°C", "conseil": "⭐ Idéal, mantas très actives" },
-        "juil-aout": { "meteo": "🌧️ Mousson", "conseil": "⚠️ Mantas moins prévisibles, mer parfois fermée" },
-        "sept-oct": { "meteo": "⛅ Variable", "conseil": "Mantas possibles mais pas garanties" }
+        "nov-avril": {
+          "meteo": "☀️ Sec 29°C",
+          "conseil": "⭐ Idéal, mantas très actives"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Mousson",
+          "conseil": "⚠️ Mantas moins prévisibles, mer parfois fermée"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Variable",
+          "conseil": "Mantas possibles mais pas garanties"
+        }
       },
       "images": [],
       "notes": ""
@@ -131,13 +188,26 @@
       "bg": "#E6F1FB",
       "description": "Underground River (UNESCO) — l'une des plus longues rivières souterraines navigables du monde. À réserver à l'avance, places limitées.",
       "budget_jour": 35,
-      "activites": ["Underground River (UNESCO)", "Honda Bay island hopping", "Palawan Wildlife Rescue Center"],
+      "activites": [
+        "Underground River (UNESCO)",
+        "Honda Bay island hopping",
+        "Palawan Wildlife Rescue Center"
+      ],
       "logement": "Puerto Princesa centre (10–18€/nuit)",
       "transport_arrivee": "Vol Cebu→Puerto Princesa (30–50€)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Sec 30°C", "conseil": "⭐ Parfait, rivière navigable" },
-        "juil-aout": { "meteo": "🌧️ Mousson", "conseil": "⚠️ Underground River parfois fermée pour sécurité" },
-        "sept-oct": { "meteo": "⛅ Transition", "conseil": "Vérifier ouverture Underground River" }
+        "nov-avril": {
+          "meteo": "☀️ Sec 30°C",
+          "conseil": "⭐ Parfait, rivière navigable"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Mousson",
+          "conseil": "⚠️ Underground River parfois fermée pour sécurité"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Transition",
+          "conseil": "Vérifier ouverture Underground River"
+        }
       },
       "images": [],
       "notes": ""
@@ -154,13 +224,29 @@
       "bg": "#E6F1FB",
       "description": "Plus beau paysage des Philippines. Falaises calcaires, lagons cachés, plages désertes. Island hopping tours A (Big Lagoon, Secret Beach) et B (Snake Island, Shimizu Island).",
       "budget_jour": 38,
-      "activites": ["Island hopping Tour A", "Island hopping Tour B", "Big Lagoon kayak", "Secret Beach", "Nacpan Beach", "Coucher de soleil Las Cabañas"],
+      "activites": [
+        "Island hopping Tour A",
+        "Island hopping Tour B",
+        "Big Lagoon kayak",
+        "Secret Beach",
+        "Nacpan Beach",
+        "Coucher de soleil Las Cabañas"
+      ],
       "logement": "El Nido centre (15–25€/nuit)",
       "transport_arrivee": "Van partagé PP→El Nido (~5h, 15€) OU vol (~35€)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Mer cristalline 29°C", "conseil": "⭐ Meilleure période absolue" },
-        "juil-aout": { "meteo": "🌊 Mer agitée, pluies", "conseil": "🚫 Déconseillé — tours souvent annulés" },
-        "sept-oct": { "meteo": "⛅ Mer variable", "conseil": "⚠️ Risqué, vérifier conditions avant de réserver" }
+        "nov-avril": {
+          "meteo": "☀️ Mer cristalline 29°C",
+          "conseil": "⭐ Meilleure période absolue"
+        },
+        "juil-aout": {
+          "meteo": "🌊 Mer agitée, pluies",
+          "conseil": "🚫 Déconseillé — tours souvent annulés"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Mer variable",
+          "conseil": "⚠️ Risqué, vérifier conditions avant de réserver"
+        }
       },
       "images": [],
       "notes": ""
@@ -178,15 +264,30 @@
       "description": "3 jours / 2 nuits via les îles Linapacan. Plages désertes, snorkeling récifs, nuits en huttes sur plage. Déconnexion totale — pas de wifi.",
       "budget_jour": 0,
       "cout_fixe": 270,
-      "activites": ["Snorkeling Linapacan", "Plages désertes", "Nuits en huttes de plage", "Couchers de soleil sur mer", "Dolphin watching"],
+      "activites": [
+        "Snorkeling Linapacan",
+        "Plages désertes",
+        "Nuits en huttes de plage",
+        "Couchers de soleil sur mer",
+        "Dolphin watching"
+      ],
       "logement": "Inclus dans le prix de la croisière",
       "transport_arrivee": "Départ depuis El Nido port (inclus)",
       "highlight": "⭐ Expérience phare",
       "cout_activite": "~270€ tout inclus (Keelooma / Sea Tours Palawan)",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Mer d'huile, soleil", "conseil": "⭐ Conditions parfaites — RÉSERVER 6 semaines avant" },
-        "juil-aout": { "meteo": "🌊 Vagues 2–3m possibles", "conseil": "🚫 NE PAS FAIRE — dangereux et annulations fréquentes" },
-        "sept-oct": { "meteo": "⛅ Mer encore instable", "conseil": "⚠️ Risqué, certains opérateurs annulent encore" }
+        "nov-avril": {
+          "meteo": "☀️ Mer d'huile, soleil",
+          "conseil": "⭐ Conditions parfaites — RÉSERVER 6 semaines avant"
+        },
+        "juil-aout": {
+          "meteo": "🌊 Vagues 2–3m possibles",
+          "conseil": "🚫 NE PAS FAIRE — dangereux et annulations fréquentes"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Mer encore instable",
+          "conseil": "⚠️ Risqué, certains opérateurs annulent encore"
+        }
       },
       "images": [],
       "notes": "Réserver chez Keelooma ou Sea Tours Palawan. Places limitées en haute saison."
@@ -203,13 +304,28 @@
       "bg": "#E6F1FB",
       "description": "Épaves japonaises WWII recouvertes de coraux (snorkeling peu profond possible), lac Kayangan (le plus pur d'Asie), Twin Lagoon, Barracuda Lake.",
       "budget_jour": 36,
-      "activites": ["Épaves japonaises snorkeling", "Lac Kayangan", "Twin Lagoon", "Barracuda Lake", "Coron town marché"],
+      "activites": [
+        "Épaves japonaises snorkeling",
+        "Lac Kayangan",
+        "Twin Lagoon",
+        "Barracuda Lake",
+        "Coron town marché"
+      ],
       "logement": "Coron town (12–20€/nuit)",
       "transport_arrivee": "Arrivée depuis croisière El Nido",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ Visibilité excellente", "conseil": "⭐ Idéal pour voir les épaves" },
-        "juil-aout": { "meteo": "🌧️ Visibilité réduite", "conseil": "⚠️ Épaves accessibles mais moins belle expérience" },
-        "sept-oct": { "meteo": "⛅ S'améliore", "conseil": "Acceptable en fin octobre" }
+        "nov-avril": {
+          "meteo": "☀️ Visibilité excellente",
+          "conseil": "⭐ Idéal pour voir les épaves"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Visibilité réduite",
+          "conseil": "⚠️ Épaves accessibles mais moins belle expérience"
+        },
+        "sept-oct": {
+          "meteo": "⛅ S'améliore",
+          "conseil": "Acceptable en fin octobre"
+        }
       },
       "images": [],
       "notes": ""
@@ -226,13 +342,29 @@
       "bg": "#EAF3DE",
       "description": "Cœur culturel de Bali. Rizières en terrasses de Tegallalang, temples Tirta Empul (bain sacré) et Tanah Lot, Sacred Monkey Forest, cours de cuisine balinaise.",
       "budget_jour": 35,
-      "activites": ["Rizières Tegallalang", "Temple Tirta Empul bain sacré", "Temple Tanah Lot coucher de soleil", "Sacred Monkey Forest", "Cours de cuisine balinaise", "Marché Ubud"],
+      "activites": [
+        "Rizières Tegallalang",
+        "Temple Tirta Empul bain sacré",
+        "Temple Tanah Lot coucher de soleil",
+        "Sacred Monkey Forest",
+        "Cours de cuisine balinaise",
+        "Marché Ubud"
+      ],
       "logement": "Guesthouse rizières (~20–35€/nuit)",
       "transport_arrivee": "Vol Coron→Manille + Manille→Bali (~130€) + taxi Grab depuis aéroport",
       "saisons": {
-        "nov-avril": { "meteo": "🌦️ Saison des pluies mais courtes", "conseil": "Quelques averses mais très vert et beau" },
-        "juil-aout": { "meteo": "☀️ Saison sèche, haute saison", "conseil": "⭐ Beau mais bondé et plus cher" },
-        "sept-oct": { "meteo": "🌦️ Transition pluies→sec", "conseil": "Correct, moins de monde qu'en été" }
+        "nov-avril": {
+          "meteo": "🌦️ Saison des pluies mais courtes",
+          "conseil": "Quelques averses mais très vert et beau"
+        },
+        "juil-aout": {
+          "meteo": "☀️ Saison sèche, haute saison",
+          "conseil": "⭐ Beau mais bondé et plus cher"
+        },
+        "sept-oct": {
+          "meteo": "🌦️ Transition pluies→sec",
+          "conseil": "Correct, moins de monde qu'en été"
+        }
       },
       "images": [],
       "notes": ""
@@ -249,13 +381,28 @@
       "bg": "#EAF3DE",
       "description": "Bali côté plage et surf. Couchers de soleil légendaires depuis Tanah Lot, scooter, cafés design, Echo Beach pour le surf.",
       "budget_jour": 38,
-      "activites": ["Plages surf Canggu", "Echo Beach surf", "Coucher de soleil Tanah Lot", "Scooter balade côte", "Cafés & brunch Canggu"],
+      "activites": [
+        "Plages surf Canggu",
+        "Echo Beach surf",
+        "Coucher de soleil Tanah Lot",
+        "Scooter balade côte",
+        "Cafés & brunch Canggu"
+      ],
       "logement": "Hostel design Canggu (~15–25€/nuit)",
       "transport_arrivee": "Scooter ou Grab depuis Ubud (~45min)",
       "saisons": {
-        "nov-avril": { "meteo": "🌊 Houle surf, averses courtes", "conseil": "Bon pour surf, quelques pluies" },
-        "juil-aout": { "meteo": "☀️ Sec, parfait", "conseil": "⭐ Meilleure météo mais très touristique" },
-        "sept-oct": { "meteo": "⛅ Variable", "conseil": "Correct, moins de monde" }
+        "nov-avril": {
+          "meteo": "🌊 Houle surf, averses courtes",
+          "conseil": "Bon pour surf, quelques pluies"
+        },
+        "juil-aout": {
+          "meteo": "☀️ Sec, parfait",
+          "conseil": "⭐ Meilleure météo mais très touristique"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Variable",
+          "conseil": "Correct, moins de monde"
+        }
       },
       "images": [],
       "notes": ""
@@ -272,15 +419,30 @@
       "bg": "#EAF3DE",
       "description": "L'île sauvage de Bali. Kelingking Beach (la photo iconique), Broken Beach, Crystal Bay. Manta Point — la meilleure expérience raies mantas du voyage.",
       "budget_jour": 36,
-      "activites": ["Manta Point snorkeling", "Kelingking Beach", "Broken Beach", "Crystal Bay snorkeling", "Angel's Billabong"],
+      "activites": [
+        "Manta Point snorkeling",
+        "Kelingking Beach",
+        "Broken Beach",
+        "Crystal Bay snorkeling",
+        "Angel's Billabong"
+      ],
       "logement": "Guesthouse Nusa Penida (~15–22€/nuit)",
       "transport_arrivee": "Ferry rapide Sanur→Nusa Penida (~35min, 6€)",
       "highlight": "🐟 Raies mantas — site principal",
       "cout_activite": "~40–50€ (tour Manta Point + guide)",
       "saisons": {
-        "nov-avril": { "meteo": "🌦️ Quelques vagues, mantas actives", "conseil": "⭐ Mantas très présentes nov–mars" },
-        "juil-aout": { "meteo": "☀️ Sec, mer calme", "conseil": "⭐ Excellent pour Manta Point, haute saison" },
-        "sept-oct": { "meteo": "⛅ Variable", "conseil": "Mantas toujours présentes, moins de touristes" }
+        "nov-avril": {
+          "meteo": "🌦️ Quelques vagues, mantas actives",
+          "conseil": "⭐ Mantas très présentes nov–mars"
+        },
+        "juil-aout": {
+          "meteo": "☀️ Sec, mer calme",
+          "conseil": "⭐ Excellent pour Manta Point, haute saison"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Variable",
+          "conseil": "Mantas toujours présentes, moins de touristes"
+        }
       },
       "images": [],
       "notes": ""
@@ -297,13 +459,28 @@
       "bg": "#F1EFE8",
       "description": "Escale urbaine. Gardens by the Bay (gratuit le jour), hawker centres Maxwell & Lau Pa Sat, quartier Haji Lane, vue Marina Bay depuis les quais.",
       "budget_jour": 80,
-      "activites": ["Gardens by the Bay (gratuit)", "Maxwell Hawker Centre", "Haji Lane shopping", "Marina Bay promenade", "Supertrees son & lumière (gratuit 19h45)"],
+      "activites": [
+        "Gardens by the Bay (gratuit)",
+        "Maxwell Hawker Centre",
+        "Haji Lane shopping",
+        "Marina Bay promenade",
+        "Supertrees son & lumière (gratuit 19h45)"
+      ],
       "logement": "Hostel dortoir (~30–40€/nuit) — Singapour est cher",
       "transport_arrivee": "Vol Bali→Singapour (Scoot/AirAsia, ~60€)",
       "saisons": {
-        "nov-avril": { "meteo": "🌦️ Quelques averses 30°C", "conseil": "Correct, averses courtes" },
-        "juil-aout": { "meteo": "☀️ Moins humide", "conseil": "Bonne période pour Singapour" },
-        "sept-oct": { "meteo": "🌧️ Plus humide", "conseil": "Acceptable" }
+        "nov-avril": {
+          "meteo": "🌦️ Quelques averses 30°C",
+          "conseil": "Correct, averses courtes"
+        },
+        "juil-aout": {
+          "meteo": "☀️ Moins humide",
+          "conseil": "Bonne période pour Singapour"
+        },
+        "sept-oct": {
+          "meteo": "🌧️ Plus humide",
+          "conseil": "Acceptable"
+        }
       },
       "images": [],
       "notes": "Budget serré ici — privilégier hawker centres (3–5€/repas) plutôt que restaurants."
@@ -320,13 +497,28 @@
       "bg": "#FAEEDA",
       "description": "Meilleure food scene d'Asie du Sud-Est selon beaucoup. Street art de George Town, temples chinois, Kek Lok Si, architecture coloniale UNESCO.",
       "budget_jour": 30,
-      "activites": ["Street art George Town", "Kek Lok Si Temple", "Penang Hill tramway", "Street food tour", "Little India & Chinatown"],
+      "activites": [
+        "Street art George Town",
+        "Kek Lok Si Temple",
+        "Penang Hill tramway",
+        "Street food tour",
+        "Little India & Chinatown"
+      ],
       "logement": "George Town hostel (10–18€/nuit)",
       "transport_arrivee": "Bus SG→KL (~5h, 15€) puis vol ou bus KL→Penang (3h, 8€)",
       "saisons": {
-        "nov-avril": { "meteo": "⛅ Quelques pluies côte est", "conseil": "Correct — visites intérieures compatibles" },
-        "juil-aout": { "meteo": "☀️ Côte ouest sèche", "conseil": "⭐ Idéal pour Penang" },
-        "sept-oct": { "meteo": "⛅ Variable", "conseil": "Bien, moins de touristes" }
+        "nov-avril": {
+          "meteo": "⛅ Quelques pluies côte est",
+          "conseil": "Correct — visites intérieures compatibles"
+        },
+        "juil-aout": {
+          "meteo": "☀️ Côte ouest sèche",
+          "conseil": "⭐ Idéal pour Penang"
+        },
+        "sept-oct": {
+          "meteo": "⛅ Variable",
+          "conseil": "Bien, moins de touristes"
+        }
       },
       "images": [],
       "notes": ""
@@ -343,13 +535,26 @@
       "bg": "#FAEEDA",
       "description": "Dernière nuit avant vol retour. Shopping souvenirs, dernier repas hawker centre. KLIA Ekspres pour l'aéroport.",
       "budget_jour": 40,
-      "activites": ["Shopping Central Market", "Dernier hawker centre", "KLIA Ekspres retour aéroport"],
+      "activites": [
+        "Shopping Central Market",
+        "Dernier hawker centre",
+        "KLIA Ekspres retour aéroport"
+      ],
       "logement": "Proche KLCC ou KL Sentral",
       "transport_arrivee": "Bus ou vol Penang→KL",
       "saisons": {
-        "nov-avril": { "meteo": "☀️ 28°C", "conseil": "Parfait" },
-        "juil-aout": { "meteo": "🌧️ Pluies 30°C", "conseil": "Correct" },
-        "sept-oct": { "meteo": "⛅ 29°C", "conseil": "Correct" }
+        "nov-avril": {
+          "meteo": "☀️ 28°C",
+          "conseil": "Parfait"
+        },
+        "juil-aout": {
+          "meteo": "🌧️ Pluies 30°C",
+          "conseil": "Correct"
+        },
+        "sept-oct": {
+          "meteo": "⛅ 29°C",
+          "conseil": "Correct"
+        }
       },
       "images": [],
       "notes": ""
@@ -363,5 +568,1319 @@
     "vaccins": 200,
     "visas": 60,
     "imprevu": 300
-  }
+  },
+  "pois": [
+    {
+      "source": "seed",
+      "tags": [
+        "iconique",
+        "grotte",
+        "singe"
+      ],
+      "id": "p-batu",
+      "nom": "Batu Caves",
+      "theme": "voir",
+      "sub": "temple",
+      "lat": 3.2379,
+      "lng": 101.684,
+      "etape": "kl-arrivee",
+      "note": "272 marches colorées, temple hindou dans une grotte calcaire. Y aller tôt (avant 8h) pour éviter foule et chaleur. Attention aux macaques."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-petronas",
+      "nom": "Petronas Twin Towers",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 3.1578,
+      "lng": 101.7117,
+      "etape": "kl-arrivee",
+      "note": "Skybridge au 41e étage. Billets à réserver en ligne à l'avance. Vue gratuite depuis le parc KLCC en contrebas."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-jalanalor",
+      "nom": "Jalan Alor",
+      "theme": "manger",
+      "sub": "street",
+      "lat": 3.145,
+      "lng": 101.7086,
+      "etape": "kl-arrivee",
+      "note": "Rue de street food la plus connue de KL. Ouvre en soirée. Satay, char kway teow, durian."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-petaling",
+      "nom": "Petaling Street (Chinatown)",
+      "theme": "manger",
+      "sub": "marche",
+      "lat": 3.1436,
+      "lng": 101.6958,
+      "etape": "kl-arrivee",
+      "note": "Marché couvert de Chinatown. Contrefaçons et stands de nourriture."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-centralmkt",
+      "nom": "Central Market",
+      "theme": "manger",
+      "sub": "marche",
+      "lat": 3.1457,
+      "lng": 101.6958,
+      "etape": "kl-retour",
+      "note": "Artisanat et souvenirs, bâtiment art déco. Bon pour les derniers achats avant le vol."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "unesco",
+        "iconique",
+        "gratuit"
+      ],
+      "id": "p-georgetown",
+      "nom": "George Town (street art)",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 5.4164,
+      "lng": 100.3327,
+      "etape": "penang",
+      "note": "Centre UNESCO. Fresques d'Ernest Zacharevic disséminées dans les ruelles. Se fait à pied."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-keklokso",
+      "nom": "Kek Lok Si Temple",
+      "theme": "voir",
+      "sub": "temple",
+      "lat": 5.3991,
+      "lng": 100.2734,
+      "etape": "penang",
+      "note": "Plus grand temple bouddhiste de Malaisie. Pagode de 7 étages, statue de Guanyin."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset"
+      ],
+      "id": "p-penanghill",
+      "nom": "Penang Hill",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": 5.4239,
+      "lng": 100.2687,
+      "etape": "penang",
+      "note": "Funiculaire jusqu'au sommet, vue sur George Town. Y aller en fin d'après-midi."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "unesco"
+      ],
+      "id": "p-intramuros",
+      "nom": "Intramuros",
+      "theme": "voir",
+      "sub": "temple",
+      "lat": 14.5895,
+      "lng": 120.975,
+      "etape": "manille",
+      "note": "Cité fortifiée espagnole. Fort Santiago, cathédrale. Se visite en 2-3h, faisable en escale."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "gratuit"
+      ],
+      "id": "p-rizal",
+      "nom": "Rizal Park",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 14.5826,
+      "lng": 120.9787,
+      "etape": "manille",
+      "note": "Grand parc urbain à côté d'Intramuros."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sardine",
+        "iconique",
+        "corail"
+      ],
+      "id": "p-sardine",
+      "nom": "Sardine Run — Panagsama Beach",
+      "theme": "faire",
+      "sub": "snorkeling",
+      "lat": 9.9482,
+      "lng": 123.367,
+      "etape": "cebu-moalboal",
+      "note": "Le banc de sardines est accessible depuis la plage, à quelques mètres du bord. Palmes/masque suffisent, pas besoin de bateau. Tortues fréquentes sur le même récif."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "corail",
+        "tortue"
+      ],
+      "id": "p-pescador",
+      "nom": "Pescador Island",
+      "theme": "faire",
+      "sub": "plongee",
+      "lat": 9.9333,
+      "lng": 123.3333,
+      "etape": "cebu-moalboal",
+      "note": "Îlot en face de Moalboal, tombant corallien. Accessible en bangka (~15 min)."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "requin"
+      ],
+      "id": "p-oslob",
+      "nom": "Oslob — requins baleines",
+      "theme": "faire",
+      "sub": "snorkeling",
+      "lat": 9.4602,
+      "lng": 123.3776,
+      "etape": "cebu-moalboal",
+      "note": "Nourrissage controversé (impact sur le comportement des animaux). Y aller très tôt. Alternative plus éthique : Donsol (Luzon), hors trajet."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "cascade"
+      ],
+      "id": "p-kawasan",
+      "nom": "Kawasan Falls",
+      "theme": "voir",
+      "sub": "nature",
+      "lat": 9.8143,
+      "lng": 123.382,
+      "etape": "cebu-moalboal",
+      "note": "Cascade turquoise, point de départ du canyoning. Très fréquenté en journée."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique",
+        "sunset"
+      ],
+      "id": "p-osmena",
+      "nom": "Osmeña Peak",
+      "theme": "faire",
+      "sub": "rando",
+      "lat": 9.8167,
+      "lng": 123.4667,
+      "etape": "cebu-moalboal",
+      "note": "Point culminant de Cebu. Collines déchiquetées. Courte montée (~30 min)."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-chocolate",
+      "nom": "Chocolate Hills",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": 9.9167,
+      "lng": 124.1667,
+      "etape": "bohol",
+      "note": "1200+ collines coniques. Brunes en saison sèche, vertes en saison humide. Plateforme d'observation à Carmen."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "primate"
+      ],
+      "id": "p-tarsier",
+      "nom": "Tarsier Sanctuary (Corella)",
+      "theme": "voir",
+      "sub": "nature",
+      "lat": 9.6833,
+      "lng": 124.0333,
+      "etape": "bohol",
+      "note": "Sanctuaire de Corella, plus éthique que les enclos touristiques. Silence obligatoire : le stress est fatal aux tarsiers."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "tortue",
+        "corail",
+        "manta"
+      ],
+      "id": "p-balicasag",
+      "nom": "Balicasag Island",
+      "theme": "faire",
+      "sub": "plongee",
+      "lat": 9.5167,
+      "lng": 123.7,
+      "etape": "bohol",
+      "note": "Sanctuaire marin. Tortues quasi garanties, tombant corallien. Quota de visiteurs journalier."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset"
+      ],
+      "id": "p-panglao",
+      "nom": "Alona Beach (Panglao)",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 9.5486,
+      "lng": 123.775,
+      "etape": "bohol",
+      "note": "Base pour les sorties bateau. Animée, restaurants et dive shops."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-loboc",
+      "nom": "Rivière de Loboc",
+      "theme": "faire",
+      "sub": "bateau",
+      "lat": 9.6333,
+      "lng": 124.0333,
+      "etape": "bohol",
+      "note": "Croisière déjeuner sur la rivière. Touristique mais joli."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "unesco",
+        "grotte",
+        "iconique"
+      ],
+      "id": "p-underground",
+      "nom": "Puerto Princesa Underground River",
+      "theme": "voir",
+      "sub": "nature",
+      "lat": 10.1936,
+      "lng": 118.925,
+      "etape": "puerto-princesa",
+      "note": "UNESCO. Quota journalier strict : réserver bien à l'avance. Permis obligatoire, obtenu via un tour opérateur."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "corail"
+      ],
+      "id": "p-hondabay",
+      "nom": "Honda Bay",
+      "theme": "faire",
+      "sub": "bateau",
+      "lat": 9.85,
+      "lng": 118.7833,
+      "etape": "puerto-princesa",
+      "note": "Island hopping depuis Puerto Princesa. Plus calme qu'El Nido."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-biglagoon",
+      "nom": "Big Lagoon (Bacuit Bay)",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 11.1833,
+      "lng": 119.3167,
+      "etape": "el-nido",
+      "note": "Tour A. Kayak obligatoire pour entrer dans le lagon. Eau turquoise, falaises calcaires."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "grotte"
+      ],
+      "id": "p-secretbeach",
+      "nom": "Secret Beach",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 11.2167,
+      "lng": 119.2833,
+      "etape": "el-nido",
+      "note": "Tour C. Accès en nageant par une fissure dans la roche. Aurait inspiré Alex Garland pour La Plage."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset"
+      ],
+      "id": "p-nacpan",
+      "nom": "Nacpan Beach",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 11.3167,
+      "lng": 119.4167,
+      "etape": "el-nido",
+      "note": "4 km de sable, à 45 min en tricycle du centre. Beaucoup plus calme que la baie."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset",
+        "iconique"
+      ],
+      "id": "p-lascabanas",
+      "nom": "Las Cabañas Beach",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 11.1667,
+      "lng": 119.3833,
+      "etape": "el-nido",
+      "note": "Le spot coucher de soleil d'El Nido. Zipline au-dessus de la baie."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique",
+        "corail"
+      ],
+      "id": "p-linapacan",
+      "nom": "Îles Linapacan",
+      "theme": "faire",
+      "sub": "bateau",
+      "lat": 11.5,
+      "lng": 119.7833,
+      "etape": "croisiere",
+      "note": "Traversée de la croisière El Nido → Coron. Eaux régulièrement citées parmi les plus claires du monde. Aucun réseau."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "epave",
+        "iconique"
+      ],
+      "id": "p-epaves",
+      "nom": "Épaves japonaises (Coron Bay)",
+      "theme": "faire",
+      "sub": "plongee",
+      "lat": 11.9833,
+      "lng": 120.2,
+      "etape": "coron",
+      "note": "Flotte japonaise coulée en 1944. Certaines épaves à 10-15 m : accessibles en snorkeling."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-kayangan",
+      "nom": "Kayangan Lake",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": 11.9833,
+      "lng": 120.2333,
+      "etape": "coron",
+      "note": "Souvent présenté comme le lac le plus propre des Philippines. Montée d'escaliers jusqu'au point de vue."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-twinlagoon",
+      "nom": "Twin Lagoon",
+      "theme": "voir",
+      "sub": "plage",
+      "lat": 11.9667,
+      "lng": 120.2167,
+      "etape": "coron",
+      "note": "Deux lagons reliés par un passage sous la roche. Choc thermique eau douce/eau salée."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-barracuda",
+      "nom": "Barracuda Lake",
+      "theme": "faire",
+      "sub": "plongee",
+      "lat": 11.9917,
+      "lng": 120.2333,
+      "etape": "coron",
+      "note": "Lac de plongée célèbre pour sa thermocline : l'eau passe de 28 à 38 °C en quelques mètres."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "rizieres",
+        "iconique"
+      ],
+      "id": "p-tegallalang",
+      "nom": "Rizières de Tegallalang",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": -8.4319,
+      "lng": 115.2792,
+      "etape": "ubud",
+      "note": "Terrasses en subak (système d'irrigation UNESCO). Très tôt le matin pour éviter les cars. Petits péages informels à l'entrée des sentiers."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "unesco"
+      ],
+      "id": "p-tirtaempul",
+      "nom": "Tirta Empul",
+      "theme": "voir",
+      "sub": "temple",
+      "lat": -8.4156,
+      "lng": 115.3153,
+      "etape": "ubud",
+      "note": "Temple de purification, bassins sacrés. Sarong obligatoire (prêté sur place). Rituel de melukat possible pour les visiteurs."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "singe"
+      ],
+      "id": "p-monkeyforest",
+      "nom": "Sacred Monkey Forest",
+      "theme": "voir",
+      "sub": "nature",
+      "lat": -8.5188,
+      "lng": 115.2585,
+      "etape": "ubud",
+      "note": "Sanctuaire de macaques en pleine ville. Ne rien tenir en main (lunettes, téléphone)."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset",
+        "iconique"
+      ],
+      "id": "p-tanahlot",
+      "nom": "Tanah Lot",
+      "theme": "voir",
+      "sub": "temple",
+      "lat": -8.6212,
+      "lng": 115.0868,
+      "etape": "ubud",
+      "note": "Temple sur un rocher, accessible à marée basse. Le spot coucher de soleil de Bali — donc bondé."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-ubudmarket",
+      "nom": "Marché d'Ubud",
+      "theme": "manger",
+      "sub": "marche",
+      "lat": -8.5069,
+      "lng": 115.2625,
+      "etape": "ubud",
+      "note": "Marché du matin (produits frais avant 9h), artisanat le reste de la journée. Négociation attendue."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "sunset"
+      ],
+      "id": "p-echobeach",
+      "nom": "Echo Beach",
+      "theme": "faire",
+      "sub": "surf",
+      "lat": -8.6556,
+      "lng": 115.1289,
+      "etape": "seminyak-canggu",
+      "note": "Spot de surf de Canggu, fond de récif — pas pour débutants. Bars face au coucher de soleil."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "vegetarien"
+      ],
+      "id": "p-canggucafes",
+      "nom": "Canggu — cafés & brunch",
+      "theme": "manger",
+      "sub": "cafe",
+      "lat": -8.6478,
+      "lng": 115.1385,
+      "etape": "seminyak-canggu",
+      "note": "Zone de Batu Bolong / Berawa, dense en cafés. Repère de zone : cherchez sur place, ça change vite."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique"
+      ],
+      "id": "p-kelingking",
+      "nom": "Kelingking Beach",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": -8.7514,
+      "lng": 115.4747,
+      "etape": "nusa-penida",
+      "note": "La falaise en forme de T-Rex. La descente jusqu'à la plage est raide et dangereuse (~1h aller). Le point de vue seul vaut le détour."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "manta",
+        "iconique"
+      ],
+      "id": "p-mantapoint",
+      "nom": "Manta Point",
+      "theme": "faire",
+      "sub": "snorkeling",
+      "lat": -8.7936,
+      "lng": 115.4694,
+      "etape": "nusa-penida",
+      "note": "Station de nettoyage à raies mantas. Mer souvent agitée, houle. Sorties tôt le matin."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-brokenbeach",
+      "nom": "Broken Beach (Pasih Uug)",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": -8.7247,
+      "lng": 115.4536,
+      "etape": "nusa-penida",
+      "note": "Arche naturelle et lagon circulaire. Juste à côté d'Angel's Billabong."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-angelsbillabong",
+      "nom": "Angel's Billabong",
+      "theme": "voir",
+      "sub": "paysage",
+      "lat": -8.7231,
+      "lng": 115.4544,
+      "etape": "nusa-penida",
+      "note": "Piscine naturelle. Baignade UNIQUEMENT à marée basse — des touristes ont été emportés par les vagues."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "corail",
+        "sunset",
+        "tortue"
+      ],
+      "id": "p-crystalbay",
+      "nom": "Crystal Bay",
+      "theme": "faire",
+      "sub": "snorkeling",
+      "lat": -8.7181,
+      "lng": 115.4586,
+      "etape": "nusa-penida",
+      "note": "Snorkeling accessible depuis la plage. Site de mola-mola (poisson-lune) entre juillet et octobre, mais courants forts."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "iconique",
+        "gratuit"
+      ],
+      "id": "p-gardens",
+      "nom": "Gardens by the Bay",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 1.2816,
+      "lng": 103.8636,
+      "etape": "singapour",
+      "note": "Extérieur et Supertree Grove gratuits. Les dômes (Cloud Forest / Flower Dome) sont payants."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "gratuit",
+        "sunset"
+      ],
+      "id": "p-supertree",
+      "nom": "Supertree — son & lumière",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 1.282,
+      "lng": 103.8636,
+      "etape": "singapour",
+      "note": "Spectacle gratuit en soirée (souvent 19h45 et 20h45 — à vérifier sur place). S'allonger sous les arbres."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-maxwell",
+      "nom": "Maxwell Food Centre",
+      "theme": "manger",
+      "sub": "street",
+      "lat": 1.2804,
+      "lng": 103.8449,
+      "etape": "singapour",
+      "note": "Hawker centre classique. Tian Tian Hainanese Chicken Rice y est célèbre — file d'attente."
+    },
+    {
+      "source": "seed",
+      "tags": [],
+      "id": "p-laupasat",
+      "nom": "Lau Pa Sat",
+      "theme": "manger",
+      "sub": "street",
+      "lat": 1.2807,
+      "lng": 103.8504,
+      "etape": "singapour",
+      "note": "Halle victorienne. Le soir, la rue adjacente se ferme pour les stands de satay."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "gratuit"
+      ],
+      "id": "p-hajilane",
+      "nom": "Haji Lane",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 1.3009,
+      "lng": 103.8592,
+      "etape": "singapour",
+      "note": "Ruelle de boutiques indépendantes et fresques, quartier arabe (Kampong Glam)."
+    },
+    {
+      "source": "seed",
+      "tags": [
+        "gratuit",
+        "sunset"
+      ],
+      "id": "p-marinabay",
+      "nom": "Marina Bay waterfront",
+      "theme": "voir",
+      "sub": "ville",
+      "lat": 1.2868,
+      "lng": 103.8545,
+      "etape": "singapour",
+      "note": "Promenade gratuite avec vue sur le Marina Bay Sands. Spectacle laser le soir."
+    }
+  ],
+  "patches": [],
+  "equip": [
+    {
+      "id": "theo",
+      "nom": "Théo",
+      "type": "personne",
+      "emoji": "🧍",
+      "note": "Ce que je porte sur moi / mes affaires perso.",
+      "photo": "",
+      "items": [],
+      "liens": []
+    },
+    {
+      "id": "valentine",
+      "nom": "Valentine",
+      "type": "personne",
+      "emoji": "🧍‍♀️",
+      "note": "Ses affaires à elle.",
+      "photo": "",
+      "items": [],
+      "liens": []
+    },
+    {
+      "id": "sac",
+      "nom": "Le sac",
+      "type": "sac",
+      "emoji": "🎒",
+      "note": "Le sac principal et tout ce qu'il contient.",
+      "photo": "",
+      "liens": [],
+      "items": [
+        {
+          "id": "eq-1784360038876-bx46",
+          "source": "user",
+          "items": [],
+          "nom": "adaptateur universel",
+          "emoji": "🔌",
+          "type": "objet",
+          "prix": 25,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784360103098-iyd8",
+          "source": "user",
+          "items": [],
+          "nom": "enceinte JBL",
+          "emoji": "🎶",
+          "type": "objet",
+          "prix": 35.99,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784360382100-derl",
+          "source": "user",
+          "items": [
+            {
+              "id": "eq-1784361820388-m1v2",
+              "source": "user",
+              "items": [],
+              "nom": "batterie portable",
+              "emoji": "🪫",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361833662-0cw4",
+              "source": "user",
+              "items": [],
+              "nom": "chargeur téléphone",
+              "emoji": "🔌",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361865798-2ibk",
+              "source": "user",
+              "items": [],
+              "nom": "carte SD appareil photo",
+              "emoji": "📷",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361889813-0gg4",
+              "source": "user",
+              "items": [],
+              "nom": "chargeur appareil photo",
+              "emoji": "📷",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362048273-40zu",
+              "source": "user",
+              "items": [],
+              "nom": "caméra dji",
+              "emoji": "📹",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362077048-esvq",
+              "source": "user",
+              "items": [],
+              "nom": "écouteur",
+              "emoji": "🎧",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            }
+          ],
+          "nom": "organisateur de câble",
+          "emoji": "👝",
+          "type": "objet",
+          "prix": 11.99,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784360520611-s6nk",
+          "source": "user",
+          "items": [
+            {
+              "id": "eq-1784363270320-lzlo",
+              "source": "user",
+              "items": [],
+              "nom": "sous vetement",
+              "emoji": "🩲",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363287948-8h25",
+              "source": "user",
+              "items": [],
+              "nom": "chaussette",
+              "emoji": "🧦",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363309899-oc1i",
+              "source": "user",
+              "items": [],
+              "nom": "t-shirt",
+              "emoji": "👕",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363328082-j4oj",
+              "source": "user",
+              "items": [],
+              "nom": "short",
+              "emoji": "🩳",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363366795-hmyr",
+              "source": "user",
+              "items": [],
+              "nom": "pull",
+              "emoji": "👘",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363406657-n39d",
+              "source": "user",
+              "items": [],
+              "nom": "maillot",
+              "emoji": "👙",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            }
+          ],
+          "nom": "sac pour compartimenter",
+          "emoji": "👝",
+          "type": "objet",
+          "prix": 8.99,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784360585588-m8xa",
+          "source": "user",
+          "items": [],
+          "nom": "corde à linge",
+          "emoji": "🪢",
+          "type": "objet",
+          "prix": 4.99,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784361552529-66l2",
+          "source": "user",
+          "items": [
+            {
+              "id": "eq-1784361643486-gjpt",
+              "source": "user",
+              "items": [],
+              "nom": "brosse à dent",
+              "emoji": "🪥",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361667776-7u0g",
+              "source": "user",
+              "items": [],
+              "nom": "dentifrice",
+              "emoji": "🦷",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361709491-l3dr",
+              "source": "user",
+              "items": [],
+              "nom": "anti moustique",
+              "emoji": "🦟",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361734368-3p5k",
+              "source": "user",
+              "items": [],
+              "nom": "pilule",
+              "emoji": "💊",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361753221-r9xd",
+              "source": "user",
+              "items": [],
+              "nom": "dafalgan",
+              "emoji": "😷",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361773806-aex0",
+              "source": "user",
+              "items": [],
+              "nom": "omeoplasmin",
+              "emoji": "🧴",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784361795122-rueb",
+              "source": "user",
+              "items": [],
+              "nom": "bouchon oreille",
+              "emoji": "👂🏼",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362238088-gz4y",
+              "source": "user",
+              "items": [],
+              "nom": "brosse à cheveux",
+              "emoji": "🪮",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362547929-wag8",
+              "source": "user",
+              "items": [],
+              "nom": "ibuprofen",
+              "emoji": "🔥",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363216538-j91t",
+              "source": "user",
+              "items": [],
+              "nom": "pansement",
+              "emoji": "🩹",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            }
+          ],
+          "nom": "trousse de toilette avec crochet",
+          "emoji": "👝",
+          "type": "objet",
+          "prix": 10.99,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784361568693-24an",
+          "source": "user",
+          "items": [],
+          "nom": "cadenas",
+          "emoji": "🔒",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784361978802-a8d4",
+          "source": "user",
+          "items": [],
+          "nom": "gourde",
+          "emoji": "🥤",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784362460125-d69c",
+          "source": "user",
+          "items": [],
+          "nom": "sac 10L pliable",
+          "emoji": "🎒",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784362717490-pms0",
+          "source": "user",
+          "items": [
+            {
+              "id": "eq-1784362759585-mx5r",
+              "source": "user",
+              "items": [],
+              "nom": "passeport",
+              "emoji": "🛂",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362774025-nfnb",
+              "source": "user",
+              "items": [],
+              "nom": "vaccination",
+              "emoji": "💉",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362795965-jh3v",
+              "source": "user",
+              "items": [],
+              "nom": "carte banque",
+              "emoji": "💳",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784362813276-ccnw",
+              "source": "user",
+              "items": [],
+              "nom": "photo id",
+              "emoji": "🤳🏼",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363530250-lpid",
+              "source": "user",
+              "items": [],
+              "nom": "attestation drone",
+              "emoji": "🤖",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            },
+            {
+              "id": "eq-1784363558401-cc9n",
+              "source": "user",
+              "items": [],
+              "nom": "visa",
+              "emoji": "📄",
+              "type": "objet",
+              "prix": 0,
+              "poids": 0,
+              "note": "",
+              "photo": "",
+              "liens": []
+            }
+          ],
+          "nom": "document",
+          "emoji": "📁",
+          "type": "document",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784362923734-ic4p",
+          "source": "user",
+          "items": [],
+          "nom": "taie d'oreiller",
+          "emoji": "🛌",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "si jamais le sac est trop lourd mettre des vêtements dedans",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363086346-y0al",
+          "source": "user",
+          "items": [],
+          "nom": "appareil photo",
+          "emoji": "📸",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363103058-b74p",
+          "source": "user",
+          "items": [],
+          "nom": "drone",
+          "emoji": "🤖",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363120961-s20m",
+          "source": "user",
+          "items": [],
+          "nom": "camera dji",
+          "emoji": "📹",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363146513-zxjc",
+          "source": "user",
+          "items": [],
+          "nom": "coque sous l'eau",
+          "emoji": "💧",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363246774-uk85",
+          "source": "user",
+          "items": [],
+          "nom": "lunette de soleil",
+          "emoji": "🕶️",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        },
+        {
+          "id": "eq-1784363380208-me4l",
+          "source": "user",
+          "items": [],
+          "nom": "tong",
+          "emoji": "🩴",
+          "type": "objet",
+          "prix": 0,
+          "poids": 0,
+          "note": "",
+          "photo": "",
+          "liens": []
+        }
+      ],
+      "prix": 140,
+      "poids": 0
+    }
+  ]
 }
